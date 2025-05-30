@@ -1,0 +1,9 @@
+@startmindmap
++ Moje pomysły
+++ Pomysł 1
++++_ Szczegół 1.1
++++_ Szczegół 1.2
+++ Pomysł 2
+-- Alternatywa
+--- Szczegół alternatywy
+@endmindmap
