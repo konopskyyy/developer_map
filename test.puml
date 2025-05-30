@@ -1,9 +1,17 @@
 @startmindmap
-+ Moje pomysły
-++ Pomysł 1
-+++_ Szczegół 1.1
-+++_ Szczegół 1.2
-++ Pomysł 2
--- Alternatywa
---- Szczegół alternatywy
++ Backend
++ Frontend
++ Admin
++ General
+++ Docker
++++_ Obraz
++++_ Kontener
++++_ Service
++++_ Sieć
++++_ Volumen
++++_ Secret
++++_ Docker-compose
++++_ Dockerfile
++++_ Profile
++++_ Porty
 @endmindmap
